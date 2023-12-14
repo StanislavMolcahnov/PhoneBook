@@ -1,0 +1,6 @@
+file:
+  path: ./src/main/resources/default-contacts.txt
+
+spring:
+  profiles:
+    active: default
